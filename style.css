@@ -1,0 +1,8 @@
+.red {
+    color: red;
+    text-transform: uppercase;
+}
+
+.first {
+    text-transform: capitalize;
+}
